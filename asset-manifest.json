@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1c0a6ae.chunk.css",
-    "main.js": "/static/js/main.a16d4bf4.chunk.js",
-    "main.js.map": "/static/js/main.a16d4bf4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9b89de3f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9b89de3f.js.map",
-    "static/js/2.2f939b95.chunk.js": "/static/js/2.2f939b95.chunk.js",
-    "static/js/2.2f939b95.chunk.js.map": "/static/js/2.2f939b95.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d1c0a6ae.chunk.css.map": "/static/css/main.d1c0a6ae.chunk.css.map",
-    "static/js/2.2f939b95.chunk.js.LICENSE.txt": "/static/js/2.2f939b95.chunk.js.LICENSE.txt",
-    "static/media/IF_logo.a30b55a5.jpg": "/static/media/IF_logo.a30b55a5.jpg",
-    "static/media/index.css": "/static/media/ProximaNovaRegular.e8da4074.woff",
-    "static/media/ThumbsDownIcon.884ede52.jpg": "/static/media/ThumbsDownIcon.884ede52.jpg",
-    "static/media/ThumbsUpIcon.ae010805.jpg": "/static/media/ThumbsUpIcon.ae010805.jpg",
-    "static/media/menu_icon.082b692e.svg": "/static/media/menu_icon.082b692e.svg"
+    "main.css": "/Innovation-Factors/static/css/main.d7dc22dc.chunk.css",
+    "main.js": "/Innovation-Factors/static/js/main.a16d4bf4.chunk.js",
+    "main.js.map": "/Innovation-Factors/static/js/main.a16d4bf4.chunk.js.map",
+    "runtime-main.js": "/Innovation-Factors/static/js/runtime-main.10f662a1.js",
+    "runtime-main.js.map": "/Innovation-Factors/static/js/runtime-main.10f662a1.js.map",
+    "static/js/2.2a91f57d.chunk.js": "/Innovation-Factors/static/js/2.2a91f57d.chunk.js",
+    "static/js/2.2a91f57d.chunk.js.map": "/Innovation-Factors/static/js/2.2a91f57d.chunk.js.map",
+    "index.html": "/Innovation-Factors/index.html",
+    "static/css/main.d7dc22dc.chunk.css.map": "/Innovation-Factors/static/css/main.d7dc22dc.chunk.css.map",
+    "static/js/2.2a91f57d.chunk.js.LICENSE.txt": "/Innovation-Factors/static/js/2.2a91f57d.chunk.js.LICENSE.txt",
+    "static/media/IF_logo.a30b55a5.jpg": "/Innovation-Factors/static/media/IF_logo.a30b55a5.jpg",
+    "static/media/index.css": "/Innovation-Factors/static/media/ProximaNovaRegular.e8da4074.woff",
+    "static/media/ThumbsDownIcon.884ede52.jpg": "/Innovation-Factors/static/media/ThumbsDownIcon.884ede52.jpg",
+    "static/media/ThumbsUpIcon.ae010805.jpg": "/Innovation-Factors/static/media/ThumbsUpIcon.ae010805.jpg",
+    "static/media/menu_icon.082b692e.svg": "/Innovation-Factors/static/media/menu_icon.082b692e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b89de3f.js",
-    "static/js/2.2f939b95.chunk.js",
-    "static/css/main.d1c0a6ae.chunk.css",
+    "static/js/runtime-main.10f662a1.js",
+    "static/js/2.2a91f57d.chunk.js",
+    "static/css/main.d7dc22dc.chunk.css",
     "static/js/main.a16d4bf4.chunk.js"
   ]
 }
