@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1c0a6ae.chunk.css",
+    "main.js": "/static/js/main.06c84ca5.chunk.js",
+    "main.js.map": "/static/js/main.06c84ca5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11f320ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11f320ca.js.map",
+    "static/js/2.8b967824.chunk.js": "/static/js/2.8b967824.chunk.js",
+    "static/js/2.8b967824.chunk.js.map": "/static/js/2.8b967824.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d1c0a6ae.chunk.css.map": "/static/css/main.d1c0a6ae.chunk.css.map",
+    "static/js/2.8b967824.chunk.js.LICENSE.txt": "/static/js/2.8b967824.chunk.js.LICENSE.txt",
+    "static/media/IF_logo.a30b55a5.jpg": "/static/media/IF_logo.a30b55a5.jpg",
+    "static/media/index.css": "/static/media/ProximaNovaRegular.e8da4074.woff",
+    "static/media/ThumbsDownIcon.884ede52.jpg": "/static/media/ThumbsDownIcon.884ede52.jpg",
+    "static/media/ThumbsUpIcon.ae010805.jpg": "/static/media/ThumbsUpIcon.ae010805.jpg",
+    "static/media/menu_icon.082b692e.svg": "/static/media/menu_icon.082b692e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f320ca.js",
+    "static/js/2.8b967824.chunk.js",
+    "static/css/main.d1c0a6ae.chunk.css",
+    "static/js/main.06c84ca5.chunk.js"
+  ]
+}
